@@ -1,0 +1,61 @@
+[01-Nov-2016 11:11:18 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/jkoskinen/public_html/Tekos/index.php on line 3
+[01-Nov-2016 11:11:39 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/jkoskinen/public_html/Tekos/index.php on line 3
+[01-Nov-2016 11:13:57 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/jkoskinen/public_html/Tekos/index.php on line 3
+[01-Nov-2016 11:17:44 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: foo in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:17:44 UTC] PHP Fatal error:  Call to a member function fetchArray() on boolean in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:17:59 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: foo in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:17:59 UTC] PHP Fatal error:  Call to a member function fetchArray() on boolean in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:53:36 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:55:23 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:20 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:21 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:21 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:21 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:21 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:53 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:53 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:53 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:54 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:54 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:54 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:56:54 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:58:03 UTC] PHP Warning:  SQLite3::prepare(): Unable to prepare statement: 1, no such table: foo in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:59:06 UTC] PHP Warning:  SQLite3::prepare(): Unable to prepare statement: 1, no such column: number in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:59:07 UTC] PHP Warning:  SQLite3::prepare(): Unable to prepare statement: 1, no such column: number in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:59:08 UTC] PHP Warning:  SQLite3::prepare(): Unable to prepare statement: 1, no such column: number in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:59:19 UTC] PHP Catchable fatal error:  Object of class SQLite3Stmt could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:59:33 UTC] PHP Catchable fatal error:  Object of class SQLite3Stmt could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:59:42 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:59:43 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:59:43 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 11:59:46 UTC] PHP Catchable fatal error:  Object of class SQLite3Stmt could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:59:46 UTC] PHP Catchable fatal error:  Object of class SQLite3Stmt could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 11:59:46 UTC] PHP Catchable fatal error:  Object of class SQLite3Stmt could not be converted to string in /home/jkoskinen/public_html/Tekos/index.php on line 5
+[01-Nov-2016 12:13:20 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:13:33 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/jkoskinen/public_html/Tekos/index.php on line 6
+[01-Nov-2016 12:15:08 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/jkoskinen/public_html/Tekos/index.php on line 4
+[01-Nov-2016 12:15:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/jkoskinen/public_html/Tekos/index.php on line 6
+[01-Nov-2016 12:17:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/jkoskinen/public_html/Tekos/marketing.php on line 8
+[01-Nov-2016 12:25:04 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/jkoskinen/public_html/Tekos/marketing.php on line 4
+[01-Nov-2016 12:26:15 UTC] PHP Fatal error:  Cannot use object of type SQLite3Result as array in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:26:30 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:27:01 UTC] PHP Fatal error:  Cannot use object of type SQLite3Result as array in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:27:22 UTC] PHP Fatal error:  Cannot use object of type SQLite3Result as array in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:29:33 UTC] PHP Fatal error:  Cannot use object of type SQLite3Result as array in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:30:17 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:30:41 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:30:47 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:30:50 UTC] PHP Catchable fatal error:  Object of class SQLite3Result could not be converted to string in /home/jkoskinen/public_html/Tekos/marketing.php on line 5
+[01-Nov-2016 12:49:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:49:11 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:49:30 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:49:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:49:49 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:49:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:49:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:50:20 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER), expecting ']' in /home/jkoskinen/public_html/Tekos/index.php on line 7
+[01-Nov-2016 12:54:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/jkoskinen/public_html/Tekos/marketing.php on line 34
+[01-Nov-2016 12:54:46 UTC] PHP Parse error:  syntax error, unexpected 'lead' (T_STRING) in /home/jkoskinen/public_html/Tekos/marketing.php on line 34
+[01-Nov-2016 12:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jkoskinen/public_html/Tekos/marketing.php on line 35
+[01-Nov-2016 12:55:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jkoskinen/public_html/Tekos/marketing.php on line 35
+[01-Nov-2016 12:55:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jkoskinen/public_html/Tekos/marketing.php on line 35

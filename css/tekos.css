@@ -1,0 +1,41 @@
+.navbar{
+  margin-bottom: 0px;
+}
+.carousel {
+  margin-bottom: 60px;
+}
+.col-lg-4 {
+  text-align: center;
+}
+.featurette-divider {
+  margin: 80px 0;
+}
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.carousel-caption h1 {
+  margin-bottom: 20px;
+}
+
+
+/* Marketing START */
+.marketing .glyphicon {
+  font-size: 50px;
+  background-color: #2ecc71;
+  color: white;
+  padding: 40px;
+  border-radius: 50%;
+}
+.marketing .glyphicon-time {
+  background-color: #3498db
+}
+.marketing .glyphicon-heart-empty {
+  background-color: #e74c3c;
+}
+#map {
+  height: 400px;
+}
+/* Marketing END
+ */
